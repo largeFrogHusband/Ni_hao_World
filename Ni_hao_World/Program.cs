@@ -6,7 +6,7 @@ namespace Ni_hao_World
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ni Hao World!!");
+            Console.WriteLine("Gooday World!!");
         }
     }
 }
